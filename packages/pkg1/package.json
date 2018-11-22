@@ -1,0 +1,12 @@
+{
+  "name": "pkg1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint --ext=js ./"
+  },
+  "dependencies": {
+    "eslint": "^5.9.0"
+  }
+}
